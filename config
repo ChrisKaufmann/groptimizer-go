@@ -1,0 +1,11 @@
+[DB]
+db=
+host=
+user=
+pass=
+[Google]
+ClientId=
+ClientSecret=
+[Web]
+port=
+url=
